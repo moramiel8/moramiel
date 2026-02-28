@@ -1,3 +1,3 @@
-export async function POST() {
-  return new Response("ok");
+export default function DashboardPage() {
+  return <div>Dashboard</div>;
 }
