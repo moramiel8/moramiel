@@ -5,7 +5,7 @@ export default function Header() {
 return (
 <header className="bg-white border-b">
 <div className="container flex items-center justify-between py-4">
-<Link href="/" className="text-xl font-bold text-base-primary">moramiel.co.il</Link>
+<Link href="/" className="text-xl font-bold text-base-primary">moramielRemove-Item -Recurse -Force .git.co.il</Link>
 <nav className="flex gap-4">
 <Link href="/learn" className="hover:opacity-80">לימוד</Link>
 <Link href="/simulations" className="hover:opacity-80">סימולציות</Link>
